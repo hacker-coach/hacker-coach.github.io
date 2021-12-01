@@ -1,7 +1,7 @@
-title: "MAGENTO GURU"
+title: "MAGENTO"
 description: "HÖCHSTLEISTUNG ENTSTEHT DURCH LEIDENSCHAFT UND NICHT DURCH LEISTUNGSDRUCK ODER ANPASSUNGSDRUCK."
 author:
-  name: "MAGENTO GURU"
+  name: "MAGENTO"
   email: "https://micha-barthel.de"
   url: "https://micha-barthel.de"
 
@@ -28,5 +28,5 @@ plugins:
   - jekyll-sitemap
 
 # Custom variables
-owner : "MAGENTO GURU"
+owner : "MAGENTO"
 year : "2021"
