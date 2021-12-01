@@ -6,7 +6,7 @@ published: true
 
 
 ```php
-    protected function getObj($objPath){
+    protected function getObject($objPath){
         $objectManager = \Magento\Framework\App\ObjectManager::getInstance();
         return $objectManager->create($objPath);
     }
