@@ -1,5 +1,5 @@
 ---
-title: Magentdo 2 debugging
+title: Magento 2 debugging
 published: true
 ---
 ToDo
