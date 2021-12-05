@@ -16,3 +16,5 @@ Links:
 <https://docs.create-magento-app.com/usage-guide/enabling-xdebug>
 
 <https://www.codegrepper.com/code-examples/php/magento+2+write+to+debug+log>
+
+<https://askubuntu.com/questions/1162413/cant-install-xdebug-on-lampp-with-php-7-3-5>
