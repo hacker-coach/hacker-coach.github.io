@@ -14,3 +14,7 @@ Exception #0 (Exception): Notice: Undefined offset: 2 in /opt/lampp/htdocs/local
 <https://stackoverflow.com/questions/48287186/sodium-is-not-loading-on-xampp-php-7-2>
 
 <https://stackoverflow.com/questions/57458213/notice-undefined-offset-2-in-vendor-magento-framework-encryption-encryptor-php>
+
+Meine Lösung:
+
+Neunen Benutzer anlegen, weil wahrscheinlich der alte User mit einer anderen PHP-Version erstellt wurde.
