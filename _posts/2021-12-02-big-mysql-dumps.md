@@ -29,10 +29,10 @@ mysqldump -h <host> -u <username> -p <schema> --no-create-info --ignore-table=sc
 
 mysqldump -u root -p DB_NAME --ignore-table=DB_NAME.table1 --ignore-table=DB_NAME.table3 > database.sql
 
-pv /home/tp/Downloads/magento_2_1_complete_02.sql | /opt/lampp/bin/mysqldump -u root -h localhost -p'' magento_2_1 > /home/tp/Downloads/magento_2_1_complete_02.sql 
+pv /home/user/Downloads/magento_2_1_complete_02.sql | /opt/lampp/bin/mysqldump -u root -h localhost -p'' magento_2_1 > /home/user/Downloads/magento_2_1_complete_02.sql 
 
 /opt/lampp/bin/mysql -h localhost -u root -p
 
-/opt/lampp/bin/mysql -h localhost -u root -p '' torte < /home/tp/Downloads/db_dump_magento_2_1.sql
+/opt/lampp/bin/mysql -h localhost -u root -p '' torte < /home/user/Downloads/db_dump_magento_2_1.sql
 
-pv /home/tp/Downloads/db_dump_magento_2_1.sql | /opt/lampp/bin/mysql -h localhost -u root -p'' torte > /home/tp/Downloads/error.log
+pv /home/user/Downloads/db_dump_magento_2_1.sql | /opt/lampp/bin/mysql -h localhost -u root -p'' torte > /home/user/Downloads/error.log
