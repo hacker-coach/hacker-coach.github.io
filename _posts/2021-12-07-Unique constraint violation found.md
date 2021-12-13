@@ -27,3 +27,11 @@ DE: Verletzung einer "Unique" Einschränkung gefunden
 #### Regenerate Url rewrites 
 
 <https://github.com/olegkoval/magento2-regenerate_url_rewrites>
+
+<https://itectec.com/magento/magento-magento-2-duplicate-product-urls-problem/>
+
+url_key
+
+url_key_create_redirect
+
+url_path
