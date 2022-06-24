@@ -5,8 +5,3 @@ published: true
 
 <https://mage2gen.com/>
 
-<>
-
-<>
-
-<>

@@ -23,8 +23,4 @@ published: true
 
 <https://www.mageplaza.com/blog/magento-2-performance-optimization/>
 
-<>
 
-<>
-
-<>
